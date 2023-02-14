@@ -1,0 +1,301 @@
+,region_category,membership_category,joined_through_referral,preferred_offer_types,medium_of_operation,internet_option,avg_time_spent,avg_transaction_value,avg_frequency_login_days,points_in_wallet,used_special_discount,offer_application_preference,past_complaint,complaint_status,feedback,churn_risk_score
+0,Village,Platinum Membership,No,Credit/Debit Card Offers,Credit/Debit Card Offers,Wi-Fi,124.4,63557.17,36.0,1932.37,No,No,No,Solved in Follow-up,User Friendly Website,0
+1,Village,Silver Membership,Yes,Credit/Debit Card Offers,Without Offers,Mobile_Data,635.2,30402.83,50.0,499.19,No,Yes,Yes,Solved,Poor Website,1
+2,Village,Premium Membership,Yes,Gift Vouchers/Coupons,Without Offers,Fiber_Optic,1544.34,69727.67,53.0,823.79,No,Yes,Yes,No Information Available,Quality Customer Care,1
+3,Village,Silver Membership,No,Without Offers,Gift Vouchers/Coupons,Wi-Fi,216.65,33500.64,18.0,1941.21,No,No,Yes,No Information Available,Quality Customer Care,1
+4,City,Gold Membership,Yes,Credit/Debit Card Offers,Without Offers,Mobile_Data,2895.9,80535.39,65.0,2041.86,Yes,No,Yes,Solved in Follow-up,No reason specified,1
+5,Village,No Membership,Yes,Credit/Debit Card Offers,Without Offers,Wi-Fi,118.77,92943.44,49.0,1117.29,Yes,Yes,No,Not Applicable,Poor Customer Service,0
+6,Town,Premium Membership,No,Credit/Debit Card Offers,Gift Vouchers/Coupons,Mobile_Data,2375.58,75414.79,49.0,635.04,Yes,No,Yes,Not Applicable,Poor Customer Service,0
+7,Village,Platinum Membership,Yes,Without Offers,Credit/Debit Card Offers,Mobile_Data,1194.67,47977.36,5.0,1754.07,Yes,Yes,Yes,Not Applicable,User Friendly Website,0
+8,Village,Premium Membership,No,Gift Vouchers/Coupons,Credit/Debit Card Offers,Mobile_Data,1061.25,56406.25,32.0,1234.97,Yes,No,Yes,No Information Available,Poor Customer Service,0
+9,City,Platinum Membership,Yes,Gift Vouchers/Coupons,Without Offers,Mobile_Data,2457.84,2632.24,1.0,1795.14,Yes,No,Yes,Unsolved,Poor Customer Service,0
+10,Village,Basic Membership,No,Credit/Debit Card Offers,Gift Vouchers/Coupons,Mobile_Data,1722.88,68313.38,34.0,726.13,Yes,No,No,No Information Available,Poor Customer Service,0
+11,Village,Premium Membership,No,Gift Vouchers/Coupons,Credit/Debit Card Offers,Fiber_Optic,1229.44,66969.62,30.0,1283.0,Yes,No,No,Solved in Follow-up,No reason specified,1
+12,Town,Platinum Membership,Yes,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Fiber_Optic,815.93,84205.0,4.0,469.4,No,Yes,Yes,Not Applicable,Poor Product Quality,1
+13,Town,No Membership,Yes,Credit/Debit Card Offers,Without Offers,Wi-Fi,417.66,48234.75,47.0,1374.87,Yes,No,Yes,Solved in Follow-up,No reason specified,0
+14,Village,Premium Membership,No,Gift Vouchers/Coupons,Without Offers,Fiber_Optic,77.21,77564.76,64.0,165.68,Yes,Yes,Yes,No Information Available,Too many ads,1
+15,City,Silver Membership,Yes,Without Offers,Credit/Debit Card Offers,Wi-Fi,1612.36,31281.71,10.0,1818.54,No,Yes,No,No Information Available,Poor Product Quality,0
+16,City,Platinum Membership,Yes,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Fiber_Optic,720.32,62347.61,31.0,1503.36,No,Yes,Yes,Solved in Follow-up,Poor Product Quality,1
+17,City,Premium Membership,No,Gift Vouchers/Coupons,Without Offers,Fiber_Optic,3003.73,53632.36,17.0,1844.22,No,No,Yes,No Information Available,No reason specified,0
+18,Village,Basic Membership,Yes,Without Offers,Gift Vouchers/Coupons,Fiber_Optic,166.32,28818.29,41.0,214.1,Yes,No,Yes,Unsolved,Poor Customer Service,1
+19,City,Silver Membership,No,Without Offers,Credit/Debit Card Offers,Mobile_Data,3036.87,18672.17,27.0,313.68,Yes,Yes,No,Solved,Poor Product Quality,1
+20,City,Premium Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Wi-Fi,2440.21,45194.4,54.0,1613.73,Yes,No,No,Solved,Poor Website,0
+21,Town,Basic Membership,No,Credit/Debit Card Offers,Gift Vouchers/Coupons,Wi-Fi,2412.49,89757.2,9.0,967.19,No,No,Yes,Unsolved,Too many ads,1
+22,Village,Basic Membership,No,Gift Vouchers/Coupons,Credit/Debit Card Offers,Fiber_Optic,428.36,82047.79,47.0,1735.33,Yes,No,No,Solved,Poor Product Quality,1
+23,Town,Gold Membership,Yes,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Fiber_Optic,2922.74,40874.17,66.0,671.98,No,No,Yes,Solved,Quality Customer Care,1
+24,Village,Silver Membership,No,Gift Vouchers/Coupons,Credit/Debit Card Offers,Mobile_Data,2830.33,4088.54,51.0,225.54,Yes,No,Yes,No Information Available,Too many ads,0
+25,Village,Premium Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Mobile_Data,221.16,11629.64,70.0,253.84,Yes,Yes,Yes,Unsolved,Too many ads,0
+26,City,No Membership,Yes,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Mobile_Data,979.25,30408.18,58.0,839.07,Yes,Yes,Yes,Not Applicable,User Friendly Website,1
+27,Town,Silver Membership,Yes,Gift Vouchers/Coupons,Credit/Debit Card Offers,Fiber_Optic,675.68,39708.06,0.0,1395.15,No,Yes,Yes,Solved in Follow-up,Products always in Stock,1
+28,Town,Gold Membership,Yes,Without Offers,Without Offers,Mobile_Data,236.5,72685.17,7.0,1497.51,Yes,No,Yes,No Information Available,User Friendly Website,0
+29,Village,Basic Membership,No,Credit/Debit Card Offers,Gift Vouchers/Coupons,Mobile_Data,1898.97,34906.02,46.0,258.15,Yes,Yes,Yes,Unsolved,Products always in Stock,1
+30,City,Platinum Membership,Yes,Gift Vouchers/Coupons,Without Offers,Mobile_Data,2665.63,90049.81,19.0,1922.9,Yes,Yes,No,Solved in Follow-up,Reasonable Price,1
+31,City,Premium Membership,No,Gift Vouchers/Coupons,Credit/Debit Card Offers,Fiber_Optic,1194.91,43321.67,62.0,1336.53,No,Yes,No,Solved,Too many ads,1
+32,Village,Premium Membership,Yes,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Fiber_Optic,1699.36,20347.89,65.0,463.09,No,No,No,Solved,Poor Website,1
+33,City,Platinum Membership,No,Without Offers,Without Offers,Mobile_Data,290.06,48735.01,73.0,1700.13,Yes,Yes,No,No Information Available,Quality Customer Care,1
+34,Village,Gold Membership,Yes,Credit/Debit Card Offers,Gift Vouchers/Coupons,Wi-Fi,2953.82,63373.44,5.0,1909.36,Yes,No,Yes,No Information Available,Poor Product Quality,1
+35,Village,Basic Membership,No,Without Offers,Gift Vouchers/Coupons,Mobile_Data,2825.46,96944.54,2.0,225.08,Yes,No,No,Solved,No reason specified,0
+36,City,Premium Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Fiber_Optic,1303.47,57698.51,50.0,752.35,No,Yes,No,Solved,Too many ads,0
+37,Town,No Membership,Yes,Gift Vouchers/Coupons,Credit/Debit Card Offers,Fiber_Optic,389.24,92224.01,28.0,848.3,No,Yes,No,Unsolved,No reason specified,1
+38,City,Gold Membership,No,Credit/Debit Card Offers,Without Offers,Wi-Fi,549.02,22102.25,46.0,1780.07,Yes,Yes,Yes,Solved,Poor Customer Service,1
+39,Town,No Membership,Yes,Credit/Debit Card Offers,Gift Vouchers/Coupons,Wi-Fi,2404.15,69098.99,56.0,1727.02,Yes,No,No,Solved in Follow-up,Poor Website,1
+40,City,Basic Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Mobile_Data,484.7,64617.7,73.0,1497.98,No,Yes,No,Unsolved,No reason specified,0
+41,Village,Platinum Membership,No,Without Offers,Gift Vouchers/Coupons,Wi-Fi,2229.42,95823.55,3.0,1072.2,Yes,Yes,No,Solved,Poor Website,1
+42,Village,Basic Membership,No,Credit/Debit Card Offers,Credit/Debit Card Offers,Wi-Fi,2070.76,13155.6,67.0,693.22,No,Yes,No,Solved in Follow-up,Poor Website,1
+43,Town,Gold Membership,Yes,Credit/Debit Card Offers,Without Offers,Fiber_Optic,2045.23,63371.92,6.0,354.86,Yes,No,No,Solved,User Friendly Website,0
+44,Village,Gold Membership,No,Without Offers,Gift Vouchers/Coupons,Mobile_Data,1909.77,46513.44,11.0,1983.98,No,No,No,Unsolved,Reasonable Price,1
+45,City,Premium Membership,Yes,Credit/Debit Card Offers,Gift Vouchers/Coupons,Fiber_Optic,1327.86,4850.47,38.0,890.7,Yes,No,Yes,Solved,No reason specified,1
+46,City,Gold Membership,No,Credit/Debit Card Offers,Gift Vouchers/Coupons,Fiber_Optic,2483.24,97200.57,63.0,998.25,No,Yes,No,Solved in Follow-up,Quality Customer Care,0
+47,Town,Basic Membership,No,Without Offers,Gift Vouchers/Coupons,Wi-Fi,1407.9,64821.27,11.0,414.9,Yes,No,No,Not Applicable,Quality Customer Care,1
+48,Village,Silver Membership,No,Gift Vouchers/Coupons,Without Offers,Wi-Fi,232.93,13623.7,8.0,602.84,No,No,Yes,No Information Available,No reason specified,0
+49,Town,Gold Membership,Yes,Without Offers,Without Offers,Mobile_Data,821.69,56380.67,45.0,1509.66,Yes,Yes,Yes,No Information Available,Poor Product Quality,0
+50,Village,Gold Membership,No,Without Offers,Gift Vouchers/Coupons,Wi-Fi,3033.02,51481.36,40.0,1874.59,No,No,No,Solved,Poor Website,1
+51,City,No Membership,No,Credit/Debit Card Offers,Gift Vouchers/Coupons,Fiber_Optic,1461.62,30950.72,55.0,388.11,No,No,Yes,Unsolved,Reasonable Price,0
+52,Town,Premium Membership,Yes,Credit/Debit Card Offers,Gift Vouchers/Coupons,Fiber_Optic,1964.56,85703.69,59.0,972.5,No,Yes,Yes,Not Applicable,Poor Website,1
+53,Town,Gold Membership,No,Without Offers,Without Offers,Wi-Fi,1039.28,35049.72,7.0,1202.62,Yes,Yes,No,Not Applicable,Products always in Stock,0
+54,City,No Membership,No,Without Offers,Without Offers,Mobile_Data,1771.7,95617.61,40.0,306.11,Yes,No,Yes,Not Applicable,No reason specified,1
+55,City,No Membership,No,Gift Vouchers/Coupons,Without Offers,Wi-Fi,1185.28,72695.29,64.0,1123.26,No,No,No,Unsolved,Quality Customer Care,1
+56,Village,Gold Membership,No,Credit/Debit Card Offers,Without Offers,Wi-Fi,1976.82,43221.41,62.0,2.17,Yes,Yes,No,Solved in Follow-up,Poor Customer Service,0
+57,City,Silver Membership,No,Without Offers,Without Offers,Wi-Fi,192.08,23578.74,8.0,592.78,No,No,Yes,Unsolved,No reason specified,0
+58,City,No Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Fiber_Optic,1021.14,4944.89,73.0,1590.12,Yes,No,No,Solved in Follow-up,Too many ads,0
+59,Village,Gold Membership,No,Credit/Debit Card Offers,Without Offers,Wi-Fi,2614.53,54925.78,32.0,61.86,Yes,Yes,Yes,Solved in Follow-up,Too many ads,1
+60,Village,Basic Membership,No,Credit/Debit Card Offers,Without Offers,Fiber_Optic,1148.21,5176.23,45.0,1056.19,Yes,Yes,Yes,Unsolved,Poor Website,0
+61,Town,Basic Membership,No,Gift Vouchers/Coupons,Credit/Debit Card Offers,Mobile_Data,1597.22,97248.68,72.0,1906.22,Yes,No,No,Unsolved,Poor Product Quality,1
+62,Town,Platinum Membership,Yes,Gift Vouchers/Coupons,Without Offers,Fiber_Optic,178.0,64790.28,9.0,1201.53,No,No,No,Solved in Follow-up,Poor Customer Service,1
+63,Village,Platinum Membership,Yes,Credit/Debit Card Offers,Without Offers,Mobile_Data,2409.72,81538.09,8.0,430.96,Yes,No,Yes,Unsolved,Quality Customer Care,0
+64,Town,No Membership,Yes,Without Offers,Without Offers,Wi-Fi,1425.09,46914.89,53.0,3.07,Yes,Yes,Yes,Solved in Follow-up,Quality Customer Care,1
+65,Village,Platinum Membership,Yes,Without Offers,Without Offers,Mobile_Data,1134.24,63287.64,20.0,1808.25,Yes,No,Yes,Solved,Poor Website,1
+66,Town,Platinum Membership,No,Credit/Debit Card Offers,Gift Vouchers/Coupons,Mobile_Data,2626.66,96153.49,51.0,234.54,No,Yes,Yes,Not Applicable,Too many ads,1
+67,City,Basic Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Mobile_Data,1433.3,98813.6,70.0,1439.09,Yes,No,Yes,Unsolved,Poor Website,0
+68,Town,Basic Membership,Yes,Without Offers,Gift Vouchers/Coupons,Fiber_Optic,3211.92,41740.45,59.0,407.05,Yes,No,No,Not Applicable,Too many ads,1
+69,Village,No Membership,No,Credit/Debit Card Offers,Credit/Debit Card Offers,Wi-Fi,2402.44,91252.76,64.0,1246.73,No,No,Yes,No Information Available,Quality Customer Care,0
+70,Town,Silver Membership,No,Credit/Debit Card Offers,Without Offers,Mobile_Data,2328.3,76868.93,47.0,284.33,No,Yes,No,No Information Available,Quality Customer Care,0
+71,Village,Silver Membership,No,Credit/Debit Card Offers,Without Offers,Fiber_Optic,621.94,19508.68,36.0,1338.94,No,Yes,Yes,No Information Available,Too many ads,1
+72,Town,Gold Membership,No,Credit/Debit Card Offers,Without Offers,Wi-Fi,2968.19,98006.41,34.0,462.02,Yes,Yes,No,Solved,Products always in Stock,0
+73,Village,Silver Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Mobile_Data,2898.26,87195.26,20.0,612.27,No,No,Yes,Unsolved,User Friendly Website,1
+74,City,Basic Membership,Yes,Without Offers,Without Offers,Mobile_Data,904.62,66343.76,73.0,527.36,Yes,No,No,Unsolved,Products always in Stock,1
+75,Town,Platinum Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Mobile_Data,206.71,32394.09,14.0,1200.82,No,No,No,Solved in Follow-up,Reasonable Price,1
+76,Town,Gold Membership,Yes,Credit/Debit Card Offers,Without Offers,Mobile_Data,1445.56,87264.68,58.0,1787.05,Yes,Yes,Yes,Not Applicable,Poor Website,0
+77,Village,Platinum Membership,No,Credit/Debit Card Offers,Credit/Debit Card Offers,Fiber_Optic,450.62,8277.21,18.0,453.27,No,Yes,Yes,Not Applicable,Quality Customer Care,1
+78,Village,Silver Membership,No,Without Offers,Credit/Debit Card Offers,Fiber_Optic,24.82,67598.33,1.0,1662.63,Yes,Yes,No,No Information Available,No reason specified,0
+79,Village,Gold Membership,Yes,Credit/Debit Card Offers,Without Offers,Mobile_Data,3079.12,7476.75,62.0,1320.73,No,No,No,Not Applicable,Reasonable Price,1
+80,Village,Silver Membership,No,Without Offers,Gift Vouchers/Coupons,Wi-Fi,2567.25,75512.14,8.0,368.96,Yes,Yes,Yes,Unsolved,Too many ads,1
+81,City,Basic Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Fiber_Optic,1366.14,73847.31,29.0,67.54,Yes,No,No,No Information Available,Too many ads,1
+82,City,Basic Membership,Yes,Gift Vouchers/Coupons,Credit/Debit Card Offers,Mobile_Data,1652.72,80213.34,24.0,288.84,Yes,No,Yes,Not Applicable,No reason specified,1
+83,Village,Platinum Membership,Yes,Without Offers,Gift Vouchers/Coupons,Mobile_Data,2578.04,93588.14,30.0,1325.36,Yes,No,No,Solved in Follow-up,Poor Customer Service,0
+84,Town,Basic Membership,Yes,Without Offers,Without Offers,Mobile_Data,1918.47,51219.66,58.0,2056.92,Yes,Yes,Yes,No Information Available,Poor Website,1
+85,Village,Platinum Membership,No,Gift Vouchers/Coupons,Credit/Debit Card Offers,Fiber_Optic,1021.94,73672.94,36.0,182.81,Yes,Yes,Yes,Solved in Follow-up,Poor Product Quality,1
+86,Village,Premium Membership,No,Credit/Debit Card Offers,Credit/Debit Card Offers,Fiber_Optic,2866.18,47087.83,15.0,616.43,No,Yes,No,Solved in Follow-up,Poor Website,0
+87,Town,Silver Membership,Yes,Without Offers,Without Offers,Fiber_Optic,675.91,66540.34,59.0,1465.68,Yes,Yes,Yes,No Information Available,Poor Website,0
+88,Town,No Membership,No,Without Offers,Credit/Debit Card Offers,Mobile_Data,2457.16,39595.0,21.0,983.43,No,No,Yes,Solved in Follow-up,Quality Customer Care,0
+89,City,Premium Membership,No,Without Offers,Gift Vouchers/Coupons,Fiber_Optic,1149.52,38075.53,14.0,1448.5,No,Yes,No,Solved,Poor Website,0
+90,City,Premium Membership,No,Credit/Debit Card Offers,Credit/Debit Card Offers,Fiber_Optic,2682.42,97446.63,1.0,1983.36,No,No,Yes,No Information Available,User Friendly Website,0
+91,Town,Premium Membership,Yes,Gift Vouchers/Coupons,Credit/Debit Card Offers,Fiber_Optic,1737.47,61727.74,27.0,1235.85,Yes,No,Yes,Solved in Follow-up,Products always in Stock,1
+92,City,Basic Membership,Yes,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Fiber_Optic,1669.05,45943.27,59.0,247.32,No,Yes,No,Not Applicable,User Friendly Website,1
+93,Town,Silver Membership,No,Credit/Debit Card Offers,Gift Vouchers/Coupons,Fiber_Optic,470.63,23793.25,61.0,467.05,No,Yes,No,Solved in Follow-up,Poor Website,1
+94,City,No Membership,No,Credit/Debit Card Offers,Gift Vouchers/Coupons,Wi-Fi,2701.2,2933.34,47.0,1129.37,No,No,No,No Information Available,Reasonable Price,1
+95,City,Silver Membership,Yes,Without Offers,Gift Vouchers/Coupons,Mobile_Data,2477.64,79901.95,28.0,1519.47,No,Yes,Yes,No Information Available,Poor Product Quality,1
+96,City,Basic Membership,No,Without Offers,Without Offers,Mobile_Data,2349.29,58325.35,45.0,1635.89,No,Yes,No,Solved in Follow-up,Products always in Stock,1
+97,City,Gold Membership,No,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Fiber_Optic,283.07,33340.48,28.0,826.54,No,No,No,Solved,Quality Customer Care,1
+98,Town,Premium Membership,No,Without Offers,Without Offers,Mobile_Data,1212.3,86334.12,2.0,1682.62,No,No,No,Not Applicable,User Friendly Website,0
+99,Village,Basic Membership,No,Gift Vouchers/Coupons,Without Offers,Mobile_Data,1647.79,48971.55,9.0,300.97,Yes,Yes,No,No Information Available,Too many ads,0
+100,Town,Premium Membership,No,Without Offers,Without Offers,Fiber_Optic,647.37,9360.41,52.0,1415.32,No,Yes,Yes,Unsolved,User Friendly Website,1
+101,Town,No Membership,No,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Fiber_Optic,2913.33,63111.69,49.0,2054.01,Yes,Yes,No,Solved in Follow-up,Poor Website,0
+102,City,Platinum Membership,Yes,Without Offers,Credit/Debit Card Offers,Fiber_Optic,376.63,50047.72,28.0,1522.56,Yes,No,Yes,No Information Available,Quality Customer Care,1
+103,Town,Silver Membership,Yes,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Wi-Fi,2719.31,22714.93,48.0,976.47,Yes,Yes,Yes,Solved,Reasonable Price,0
+104,Village,Platinum Membership,Yes,Without Offers,Gift Vouchers/Coupons,Mobile_Data,1858.89,3080.35,55.0,1646.02,No,No,No,No Information Available,Too many ads,0
+105,Village,Gold Membership,Yes,Without Offers,Credit/Debit Card Offers,Wi-Fi,2541.98,18957.05,58.0,1812.35,No,Yes,No,Unsolved,Too many ads,0
+106,Town,No Membership,Yes,Gift Vouchers/Coupons,Without Offers,Mobile_Data,717.56,7371.99,72.0,402.93,No,No,No,Solved,Products always in Stock,1
+107,Village,Platinum Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Mobile_Data,2320.32,85355.19,49.0,1662.6,No,Yes,Yes,Solved,User Friendly Website,1
+108,Town,Premium Membership,No,Without Offers,Without Offers,Wi-Fi,3218.17,25917.44,72.0,968.6,Yes,Yes,Yes,Not Applicable,User Friendly Website,0
+109,Town,No Membership,Yes,Gift Vouchers/Coupons,Credit/Debit Card Offers,Fiber_Optic,2294.8,44752.7,6.0,1588.51,No,No,Yes,Solved in Follow-up,Too many ads,1
+110,City,Basic Membership,No,Gift Vouchers/Coupons,Without Offers,Mobile_Data,527.19,88741.88,8.0,1377.84,No,Yes,No,Solved,Quality Customer Care,1
+111,Village,Platinum Membership,No,Without Offers,Without Offers,Fiber_Optic,699.05,37451.47,22.0,1877.34,No,No,Yes,No Information Available,Quality Customer Care,0
+112,City,Platinum Membership,No,Without Offers,Credit/Debit Card Offers,Fiber_Optic,2471.94,17421.13,22.0,1409.63,No,Yes,Yes,Solved,No reason specified,1
+113,Village,Premium Membership,Yes,Gift Vouchers/Coupons,Credit/Debit Card Offers,Wi-Fi,1769.05,13930.15,53.0,1669.74,No,No,No,Not Applicable,Products always in Stock,1
+114,Village,Premium Membership,No,Without Offers,Credit/Debit Card Offers,Mobile_Data,2922.14,16722.69,8.0,2041.76,No,Yes,Yes,Not Applicable,User Friendly Website,0
+115,City,Gold Membership,Yes,Credit/Debit Card Offers,Gift Vouchers/Coupons,Wi-Fi,2173.06,71859.47,57.0,682.0,No,No,No,Solved,User Friendly Website,0
+116,City,Basic Membership,No,Credit/Debit Card Offers,Credit/Debit Card Offers,Fiber_Optic,2420.48,99772.43,19.0,1900.34,No,Yes,No,Solved,Quality Customer Care,0
+117,City,Basic Membership,Yes,Without Offers,Without Offers,Wi-Fi,749.96,91845.82,50.0,509.79,Yes,Yes,No,Solved in Follow-up,Poor Website,0
+118,Town,Platinum Membership,Yes,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Mobile_Data,990.55,76686.45,9.0,590.39,No,Yes,No,Unsolved,Products always in Stock,0
+119,Village,Gold Membership,No,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Mobile_Data,782.45,28718.05,5.0,1201.94,Yes,No,Yes,Unsolved,Poor Website,1
+120,Village,Silver Membership,Yes,Credit/Debit Card Offers,Gift Vouchers/Coupons,Mobile_Data,3230.15,83177.08,36.0,950.71,Yes,No,Yes,No Information Available,Quality Customer Care,0
+121,Village,No Membership,No,Credit/Debit Card Offers,Gift Vouchers/Coupons,Fiber_Optic,84.02,87940.6,56.0,1759.52,Yes,No,No,Solved,No reason specified,0
+122,Town,Silver Membership,No,Credit/Debit Card Offers,Gift Vouchers/Coupons,Wi-Fi,957.62,29868.46,10.0,754.0,No,No,No,Solved in Follow-up,Poor Website,0
+123,City,Platinum Membership,Yes,Credit/Debit Card Offers,Without Offers,Fiber_Optic,1985.52,29924.3,72.0,745.89,Yes,Yes,Yes,Unsolved,Quality Customer Care,1
+124,City,Premium Membership,Yes,Credit/Debit Card Offers,Without Offers,Mobile_Data,169.04,63126.86,60.0,1194.5,Yes,Yes,Yes,Solved in Follow-up,Poor Customer Service,1
+125,Town,Silver Membership,Yes,Without Offers,Gift Vouchers/Coupons,Mobile_Data,1926.17,8184.83,53.0,177.42,No,No,No,No Information Available,User Friendly Website,1
+126,City,Silver Membership,No,Credit/Debit Card Offers,Gift Vouchers/Coupons,Wi-Fi,2854.81,56977.46,66.0,1058.09,Yes,No,Yes,Not Applicable,Poor Customer Service,0
+127,Village,Gold Membership,No,Without Offers,Gift Vouchers/Coupons,Mobile_Data,2553.05,31970.84,64.0,1019.96,Yes,Yes,No,Not Applicable,Products always in Stock,1
+128,Village,Gold Membership,Yes,Credit/Debit Card Offers,Without Offers,Mobile_Data,1832.72,93821.17,10.0,1908.77,No,Yes,No,No Information Available,Too many ads,0
+129,Town,Premium Membership,No,Without Offers,Without Offers,Wi-Fi,3179.17,26484.35,18.0,1827.88,Yes,No,No,No Information Available,Poor Customer Service,1
+130,City,Silver Membership,No,Without Offers,Credit/Debit Card Offers,Mobile_Data,1667.35,15984.71,48.0,210.26,Yes,No,No,Solved in Follow-up,Products always in Stock,1
+131,Town,Gold Membership,Yes,Credit/Debit Card Offers,Gift Vouchers/Coupons,Mobile_Data,1342.6,93717.04,37.0,1897.57,No,No,No,Solved,Reasonable Price,1
+132,City,Premium Membership,No,Credit/Debit Card Offers,Gift Vouchers/Coupons,Fiber_Optic,2364.1,81313.4,3.0,1694.35,No,Yes,Yes,Solved in Follow-up,User Friendly Website,0
+133,Town,Platinum Membership,Yes,Credit/Debit Card Offers,Gift Vouchers/Coupons,Wi-Fi,2367.66,69998.67,34.0,44.84,No,No,Yes,Solved in Follow-up,Products always in Stock,1
+134,City,No Membership,Yes,Credit/Debit Card Offers,Gift Vouchers/Coupons,Wi-Fi,887.17,44159.39,9.0,1483.29,Yes,No,No,Not Applicable,Poor Customer Service,1
+135,City,Gold Membership,Yes,Credit/Debit Card Offers,Without Offers,Fiber_Optic,2887.94,14481.8,43.0,735.33,Yes,Yes,No,Solved in Follow-up,Quality Customer Care,0
+136,City,Silver Membership,No,Without Offers,Gift Vouchers/Coupons,Wi-Fi,314.48,42574.48,28.0,1943.35,Yes,Yes,No,Solved,User Friendly Website,0
+137,Village,Basic Membership,No,Without Offers,Without Offers,Fiber_Optic,1548.43,5317.68,61.0,1321.69,Yes,No,No,Not Applicable,Reasonable Price,1
+138,City,Platinum Membership,No,Credit/Debit Card Offers,Gift Vouchers/Coupons,Wi-Fi,676.63,99495.57,24.0,759.33,Yes,No,Yes,Not Applicable,Poor Product Quality,0
+139,Village,Basic Membership,Yes,Gift Vouchers/Coupons,Credit/Debit Card Offers,Wi-Fi,1401.93,91638.61,69.0,221.72,No,No,No,Solved in Follow-up,Reasonable Price,1
+140,Village,Platinum Membership,No,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Mobile_Data,2379.48,26017.4,67.0,820.61,Yes,Yes,No,No Information Available,User Friendly Website,0
+141,City,Basic Membership,Yes,Gift Vouchers/Coupons,Without Offers,Fiber_Optic,210.49,47598.97,52.0,95.68,No,Yes,Yes,Unsolved,Poor Website,0
+142,Town,Basic Membership,No,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Fiber_Optic,254.75,24232.71,13.0,2004.98,No,Yes,Yes,Not Applicable,Poor Website,0
+143,Village,Platinum Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Wi-Fi,1574.95,57501.16,39.0,523.58,No,No,No,Solved in Follow-up,Quality Customer Care,1
+144,City,No Membership,No,Gift Vouchers/Coupons,Credit/Debit Card Offers,Wi-Fi,849.33,99593.63,2.0,575.99,No,Yes,No,Unsolved,User Friendly Website,0
+145,City,Gold Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Fiber_Optic,1512.0,25017.12,18.0,652.14,Yes,Yes,No,No Information Available,User Friendly Website,0
+146,Town,Basic Membership,No,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Mobile_Data,1740.01,85694.65,40.0,1381.09,No,Yes,Yes,Not Applicable,No reason specified,0
+147,Village,Platinum Membership,Yes,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Fiber_Optic,58.79,88542.04,54.0,1894.55,Yes,No,No,Not Applicable,Quality Customer Care,0
+148,Village,Platinum Membership,No,Credit/Debit Card Offers,Without Offers,Mobile_Data,1964.36,4217.33,45.0,99.88,Yes,Yes,Yes,Not Applicable,Poor Customer Service,1
+149,Village,Premium Membership,No,Gift Vouchers/Coupons,Credit/Debit Card Offers,Mobile_Data,660.99,23705.86,16.0,259.6,No,Yes,Yes,No Information Available,User Friendly Website,0
+150,Village,No Membership,Yes,Gift Vouchers/Coupons,Credit/Debit Card Offers,Fiber_Optic,2298.42,28053.66,36.0,1218.5,Yes,Yes,No,Solved in Follow-up,No reason specified,1
+151,City,Premium Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Fiber_Optic,1451.87,10287.78,61.0,1646.51,Yes,No,Yes,No Information Available,Quality Customer Care,1
+152,Town,Premium Membership,No,Gift Vouchers/Coupons,Without Offers,Fiber_Optic,344.56,15321.44,34.0,747.43,No,No,No,Solved in Follow-up,Poor Website,1
+153,Village,No Membership,Yes,Credit/Debit Card Offers,Without Offers,Fiber_Optic,1554.38,94583.62,10.0,1828.87,Yes,No,No,Unsolved,Products always in Stock,0
+154,Village,No Membership,Yes,Credit/Debit Card Offers,Without Offers,Fiber_Optic,2678.68,84544.48,1.0,1646.68,No,No,Yes,Solved in Follow-up,Too many ads,0
+155,Village,Gold Membership,Yes,Credit/Debit Card Offers,Without Offers,Wi-Fi,754.81,79732.52,39.0,1847.62,No,Yes,Yes,Solved,No reason specified,1
+156,City,Gold Membership,No,Without Offers,Credit/Debit Card Offers,Wi-Fi,1280.85,74323.37,24.0,1692.36,Yes,Yes,Yes,Not Applicable,Poor Website,1
+157,Village,Platinum Membership,Yes,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Fiber_Optic,653.26,86861.4,53.0,1687.49,No,No,Yes,Unsolved,Reasonable Price,0
+158,Village,Silver Membership,No,Gift Vouchers/Coupons,Credit/Debit Card Offers,Wi-Fi,824.5,5617.11,8.0,297.42,Yes,Yes,Yes,Not Applicable,Reasonable Price,1
+159,Town,Silver Membership,No,Credit/Debit Card Offers,Credit/Debit Card Offers,Wi-Fi,642.77,24237.17,23.0,312.68,No,Yes,Yes,Solved,Quality Customer Care,1
+160,Village,Premium Membership,Yes,Without Offers,Gift Vouchers/Coupons,Wi-Fi,1604.68,51427.67,46.0,570.83,Yes,No,No,Solved in Follow-up,Poor Customer Service,0
+161,Town,No Membership,No,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Wi-Fi,2586.45,31598.81,28.0,1967.95,Yes,Yes,Yes,Unsolved,Too many ads,0
+162,Village,Gold Membership,No,Without Offers,Gift Vouchers/Coupons,Fiber_Optic,2544.73,92068.05,24.0,1521.06,Yes,Yes,No,Solved in Follow-up,Poor Customer Service,0
+163,City,Platinum Membership,Yes,Credit/Debit Card Offers,Without Offers,Mobile_Data,541.87,48473.28,41.0,136.84,No,No,Yes,Unsolved,Poor Product Quality,1
+164,Village,Silver Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Wi-Fi,322.6,76518.15,70.0,592.57,Yes,No,Yes,Solved in Follow-up,Poor Product Quality,0
+165,Town,Basic Membership,No,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Mobile_Data,2144.51,17147.64,16.0,468.15,No,No,No,No Information Available,Products always in Stock,0
+166,City,Premium Membership,Yes,Gift Vouchers/Coupons,Without Offers,Fiber_Optic,2693.1,78128.09,44.0,543.49,No,Yes,Yes,Not Applicable,Too many ads,0
+167,Town,Premium Membership,Yes,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Wi-Fi,1369.24,91517.92,43.0,1909.23,Yes,No,Yes,Solved,No reason specified,0
+168,Village,Basic Membership,No,Credit/Debit Card Offers,Without Offers,Fiber_Optic,1869.76,18651.45,55.0,6.22,Yes,Yes,No,Solved in Follow-up,Too many ads,1
+169,City,Silver Membership,No,Credit/Debit Card Offers,Credit/Debit Card Offers,Fiber_Optic,3011.69,24592.41,15.0,1525.48,Yes,No,Yes,Unsolved,Poor Website,0
+170,City,Basic Membership,Yes,Gift Vouchers/Coupons,Without Offers,Wi-Fi,1909.78,47649.01,52.0,657.39,No,No,Yes,Solved in Follow-up,Products always in Stock,1
+171,City,Premium Membership,No,Gift Vouchers/Coupons,Without Offers,Fiber_Optic,1131.27,36918.54,14.0,580.25,Yes,Yes,Yes,Solved in Follow-up,Poor Website,0
+172,Village,Platinum Membership,No,Gift Vouchers/Coupons,Without Offers,Wi-Fi,1357.64,32620.79,56.0,1968.51,No,Yes,Yes,Solved,Reasonable Price,0
+173,City,Silver Membership,No,Gift Vouchers/Coupons,Without Offers,Mobile_Data,464.4,7246.65,6.0,894.25,Yes,Yes,No,Unsolved,Poor Customer Service,0
+174,City,Premium Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Wi-Fi,1954.92,45251.72,10.0,249.26,Yes,No,Yes,Solved,Poor Customer Service,0
+175,City,Gold Membership,No,Credit/Debit Card Offers,Credit/Debit Card Offers,Wi-Fi,2645.64,18642.22,44.0,756.17,No,Yes,Yes,Solved in Follow-up,Quality Customer Care,1
+176,Village,Basic Membership,No,Gift Vouchers/Coupons,Without Offers,Wi-Fi,2481.25,69029.93,67.0,1655.99,No,No,Yes,Unsolved,Too many ads,1
+177,Town,Silver Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Fiber_Optic,2840.16,80989.28,32.0,1710.39,Yes,Yes,No,Not Applicable,Poor Website,0
+178,Village,Gold Membership,No,Without Offers,Credit/Debit Card Offers,Fiber_Optic,1923.19,1453.54,32.0,1024.6,No,No,No,No Information Available,Poor Website,0
+179,Village,Premium Membership,Yes,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Fiber_Optic,345.58,54755.27,32.0,1390.34,Yes,No,Yes,Solved in Follow-up,Reasonable Price,1
+180,City,Gold Membership,No,Credit/Debit Card Offers,Credit/Debit Card Offers,Fiber_Optic,2812.2,35904.01,4.0,1251.26,No,No,Yes,Solved in Follow-up,Reasonable Price,1
+181,Village,Silver Membership,No,Gift Vouchers/Coupons,Without Offers,Wi-Fi,2472.59,65660.25,69.0,1306.68,No,No,No,Solved in Follow-up,Poor Website,0
+182,Town,Premium Membership,Yes,Without Offers,Gift Vouchers/Coupons,Mobile_Data,3065.18,86268.46,2.0,2008.49,Yes,No,Yes,No Information Available,Poor Customer Service,0
+183,City,Platinum Membership,Yes,Gift Vouchers/Coupons,Credit/Debit Card Offers,Wi-Fi,800.36,41673.87,47.0,1555.79,No,Yes,No,No Information Available,Quality Customer Care,0
+184,Town,No Membership,No,Gift Vouchers/Coupons,Without Offers,Mobile_Data,395.39,72984.06,57.0,1903.17,No,Yes,Yes,Solved in Follow-up,Poor Customer Service,1
+185,City,Basic Membership,No,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Fiber_Optic,1016.87,31266.23,19.0,1746.3,Yes,Yes,No,Unsolved,Poor Product Quality,1
+186,City,Platinum Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Fiber_Optic,581.74,66343.6,25.0,1358.4,Yes,No,Yes,No Information Available,Poor Website,1
+187,Town,Gold Membership,No,Without Offers,Credit/Debit Card Offers,Mobile_Data,1247.13,47921.81,73.0,592.45,Yes,No,No,Not Applicable,No reason specified,0
+188,City,Premium Membership,No,Without Offers,Credit/Debit Card Offers,Wi-Fi,2755.17,28364.25,48.0,891.92,No,Yes,No,Solved in Follow-up,Products always in Stock,0
+189,City,Basic Membership,Yes,Credit/Debit Card Offers,Without Offers,Wi-Fi,410.26,9058.96,39.0,60.5,Yes,Yes,No,Not Applicable,Too many ads,0
+190,Village,Gold Membership,Yes,Without Offers,Gift Vouchers/Coupons,Wi-Fi,1025.49,82715.71,51.0,1801.16,No,Yes,No,No Information Available,Products always in Stock,1
+191,City,Gold Membership,No,Without Offers,Gift Vouchers/Coupons,Wi-Fi,589.88,74247.74,21.0,622.56,No,No,No,Solved,Products always in Stock,0
+192,Village,Platinum Membership,No,Credit/Debit Card Offers,Gift Vouchers/Coupons,Fiber_Optic,2292.09,87922.19,12.0,251.01,No,Yes,Yes,Unsolved,Products always in Stock,1
+193,Town,Premium Membership,No,Without Offers,Without Offers,Wi-Fi,990.59,22348.11,43.0,1347.15,Yes,Yes,Yes,Solved,Poor Customer Service,0
+194,Village,Silver Membership,No,Gift Vouchers/Coupons,Credit/Debit Card Offers,Fiber_Optic,886.25,86578.17,65.0,170.05,Yes,No,No,No Information Available,Poor Website,0
+195,Town,Basic Membership,No,Credit/Debit Card Offers,Credit/Debit Card Offers,Wi-Fi,2990.37,78468.01,11.0,1421.56,Yes,No,No,Solved,Products always in Stock,1
+196,Town,Platinum Membership,Yes,Without Offers,Gift Vouchers/Coupons,Wi-Fi,1218.41,25940.52,70.0,1690.31,No,No,Yes,Not Applicable,Too many ads,1
+197,Town,Gold Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Fiber_Optic,380.19,67277.76,33.0,1626.35,Yes,Yes,No,Unsolved,Reasonable Price,0
+198,City,Silver Membership,No,Credit/Debit Card Offers,Credit/Debit Card Offers,Fiber_Optic,2265.59,74249.16,18.0,938.44,Yes,Yes,Yes,No Information Available,Poor Website,1
+199,Village,Basic Membership,Yes,Gift Vouchers/Coupons,Without Offers,Mobile_Data,2917.66,84208.31,49.0,992.2,No,No,Yes,Solved in Follow-up,User Friendly Website,0
+200,City,Gold Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Mobile_Data,819.26,23880.9,44.0,980.58,Yes,Yes,No,Solved,Poor Customer Service,1
+201,City,Premium Membership,No,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Mobile_Data,18.14,74329.31,62.0,1704.74,Yes,No,Yes,Unsolved,Poor Product Quality,0
+202,Village,Platinum Membership,No,Without Offers,Without Offers,Wi-Fi,1579.31,14588.42,44.0,2057.27,Yes,Yes,Yes,Solved in Follow-up,Products always in Stock,0
+203,Village,No Membership,No,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Fiber_Optic,2814.2,85021.67,38.0,1842.44,No,No,No,Solved,Too many ads,0
+204,Village,Silver Membership,Yes,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Mobile_Data,2517.59,51698.34,31.0,477.73,Yes,Yes,Yes,Solved,User Friendly Website,1
+205,Town,No Membership,Yes,Credit/Debit Card Offers,Gift Vouchers/Coupons,Wi-Fi,2897.77,98048.72,24.0,1380.38,Yes,Yes,Yes,No Information Available,Poor Website,1
+206,Town,Gold Membership,Yes,Credit/Debit Card Offers,Without Offers,Mobile_Data,210.98,91509.47,68.0,2047.99,Yes,No,Yes,No Information Available,Products always in Stock,1
+207,City,Basic Membership,Yes,Without Offers,Gift Vouchers/Coupons,Wi-Fi,3174.2,75524.41,67.0,1401.96,Yes,Yes,No,Unsolved,Poor Customer Service,0
+208,Town,Gold Membership,Yes,Gift Vouchers/Coupons,Without Offers,Mobile_Data,2711.68,38971.64,38.0,1518.05,Yes,Yes,Yes,No Information Available,Reasonable Price,1
+209,Village,Premium Membership,No,Without Offers,Credit/Debit Card Offers,Mobile_Data,2649.72,11091.36,15.0,1252.4,Yes,Yes,Yes,Solved in Follow-up,Too many ads,1
+210,Town,Premium Membership,No,Gift Vouchers/Coupons,Credit/Debit Card Offers,Mobile_Data,1692.52,76263.64,17.0,482.88,No,No,No,Not Applicable,Poor Customer Service,1
+211,Town,Platinum Membership,Yes,Without Offers,Gift Vouchers/Coupons,Mobile_Data,1542.32,47188.04,57.0,901.75,No,No,Yes,Solved,User Friendly Website,1
+212,Village,No Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Mobile_Data,1645.8,21560.39,64.0,700.77,No,Yes,No,No Information Available,Reasonable Price,1
+213,City,Premium Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Fiber_Optic,1825.45,52397.26,61.0,152.41,Yes,No,Yes,Solved,Poor Website,1
+214,City,Premium Membership,Yes,Without Offers,Gift Vouchers/Coupons,Wi-Fi,2062.01,87389.18,43.0,1478.16,No,Yes,No,Unsolved,Quality Customer Care,1
+215,Town,Premium Membership,No,Credit/Debit Card Offers,Gift Vouchers/Coupons,Mobile_Data,2244.81,88819.46,8.0,698.72,Yes,No,No,Solved in Follow-up,Poor Product Quality,1
+216,Town,No Membership,No,Credit/Debit Card Offers,Without Offers,Fiber_Optic,518.76,96754.62,49.0,424.98,No,No,No,Not Applicable,User Friendly Website,1
+217,Town,Gold Membership,Yes,Gift Vouchers/Coupons,Credit/Debit Card Offers,Wi-Fi,1588.93,51339.43,35.0,1851.02,Yes,Yes,Yes,Solved in Follow-up,Quality Customer Care,0
+218,Village,Premium Membership,Yes,Without Offers,Gift Vouchers/Coupons,Fiber_Optic,1147.32,57157.98,34.0,716.26,No,No,No,Not Applicable,Poor Website,0
+219,City,Silver Membership,No,Credit/Debit Card Offers,Credit/Debit Card Offers,Mobile_Data,2276.17,83068.04,64.0,1492.45,Yes,No,Yes,Not Applicable,Poor Website,1
+220,Town,Basic Membership,No,Without Offers,Without Offers,Mobile_Data,672.95,77177.44,18.0,1533.9,Yes,Yes,No,Not Applicable,No reason specified,0
+221,Village,Platinum Membership,Yes,Gift Vouchers/Coupons,Without Offers,Wi-Fi,2430.55,51998.32,3.0,281.25,No,Yes,Yes,Solved,No reason specified,0
+222,Village,No Membership,No,Gift Vouchers/Coupons,Without Offers,Wi-Fi,1955.01,24635.37,48.0,1837.54,No,No,No,Solved in Follow-up,Quality Customer Care,1
+223,Town,No Membership,No,Gift Vouchers/Coupons,Credit/Debit Card Offers,Wi-Fi,1976.81,83287.59,54.0,1701.0,Yes,Yes,Yes,No Information Available,Poor Website,0
+224,Village,No Membership,Yes,Credit/Debit Card Offers,Gift Vouchers/Coupons,Mobile_Data,542.59,70787.43,23.0,378.05,Yes,Yes,Yes,No Information Available,Poor Customer Service,0
+225,Town,Premium Membership,Yes,Gift Vouchers/Coupons,Credit/Debit Card Offers,Mobile_Data,1041.98,1322.95,15.0,847.82,Yes,No,Yes,Solved in Follow-up,Reasonable Price,0
+226,Village,Platinum Membership,No,Without Offers,Without Offers,Fiber_Optic,118.74,54552.49,47.0,140.26,No,Yes,Yes,No Information Available,Too many ads,0
+227,City,Premium Membership,No,Gift Vouchers/Coupons,Credit/Debit Card Offers,Wi-Fi,2511.16,23556.98,58.0,744.54,No,Yes,Yes,No Information Available,Quality Customer Care,1
+228,City,Basic Membership,Yes,Without Offers,Gift Vouchers/Coupons,Fiber_Optic,1788.44,6284.23,32.0,325.84,No,No,Yes,No Information Available,Reasonable Price,1
+229,Town,Platinum Membership,Yes,Gift Vouchers/Coupons,Credit/Debit Card Offers,Wi-Fi,375.03,65170.17,28.0,1333.77,No,Yes,No,Solved,Products always in Stock,0
+230,City,No Membership,No,Without Offers,Credit/Debit Card Offers,Wi-Fi,2369.78,53565.12,67.0,738.81,No,Yes,Yes,Unsolved,Reasonable Price,1
+231,City,Premium Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Wi-Fi,2556.91,48940.37,2.0,72.06,Yes,No,No,Solved in Follow-up,Poor Product Quality,0
+232,Town,No Membership,No,Without Offers,Without Offers,Wi-Fi,2141.17,92347.61,7.0,1382.21,No,No,No,Unsolved,User Friendly Website,1
+233,City,Platinum Membership,No,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Fiber_Optic,1281.96,14326.22,71.0,1933.85,No,No,No,Solved in Follow-up,Products always in Stock,1
+234,Village,No Membership,No,Without Offers,Without Offers,Fiber_Optic,1262.94,51346.73,54.0,12.25,No,Yes,Yes,Solved in Follow-up,User Friendly Website,0
+235,Town,Platinum Membership,Yes,Without Offers,Without Offers,Fiber_Optic,905.12,53180.4,49.0,338.82,No,Yes,No,Not Applicable,User Friendly Website,0
+236,Village,Gold Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Mobile_Data,1432.69,15672.31,24.0,1588.17,No,No,No,No Information Available,User Friendly Website,1
+237,Town,Silver Membership,Yes,Without Offers,Without Offers,Wi-Fi,2142.57,97560.98,56.0,814.99,No,No,Yes,Solved,Quality Customer Care,1
+238,City,Premium Membership,No,Gift Vouchers/Coupons,Credit/Debit Card Offers,Mobile_Data,813.95,88357.66,20.0,454.43,No,Yes,No,Solved,Products always in Stock,0
+239,City,Gold Membership,No,Without Offers,Gift Vouchers/Coupons,Fiber_Optic,3204.43,57315.67,5.0,1139.25,No,Yes,No,Unsolved,Too many ads,0
+240,City,No Membership,Yes,Credit/Debit Card Offers,Gift Vouchers/Coupons,Fiber_Optic,2785.7,77293.84,16.0,2017.96,Yes,Yes,No,Not Applicable,Poor Product Quality,1
+241,Town,Silver Membership,Yes,Without Offers,Without Offers,Mobile_Data,1066.26,92973.36,4.0,1275.16,Yes,Yes,Yes,Solved in Follow-up,Reasonable Price,0
+242,Village,Basic Membership,No,Credit/Debit Card Offers,Credit/Debit Card Offers,Mobile_Data,623.4,12938.07,64.0,696.9,Yes,Yes,No,Solved in Follow-up,Poor Website,1
+243,Village,Silver Membership,Yes,Credit/Debit Card Offers,Gift Vouchers/Coupons,Fiber_Optic,2592.61,40849.79,10.0,2065.41,No,No,Yes,Solved,Poor Product Quality,1
+244,City,Basic Membership,No,Without Offers,Without Offers,Fiber_Optic,1280.84,13935.69,37.0,1869.47,Yes,Yes,Yes,Not Applicable,No reason specified,0
+245,Village,Basic Membership,Yes,Gift Vouchers/Coupons,Credit/Debit Card Offers,Fiber_Optic,3061.23,82731.11,34.0,859.9,No,Yes,Yes,Unsolved,Products always in Stock,0
+246,City,Gold Membership,Yes,Without Offers,Credit/Debit Card Offers,Fiber_Optic,237.03,48595.08,33.0,352.73,No,Yes,Yes,No Information Available,Products always in Stock,1
+247,City,Premium Membership,No,Credit/Debit Card Offers,Credit/Debit Card Offers,Mobile_Data,2685.76,79471.98,7.0,745.76,Yes,No,Yes,Solved,Poor Product Quality,1
+248,Village,Silver Membership,Yes,Without Offers,Gift Vouchers/Coupons,Mobile_Data,1810.19,99519.14,49.0,25.29,Yes,No,No,Solved,Quality Customer Care,0
+249,Town,Gold Membership,No,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Fiber_Optic,714.68,73130.44,44.0,1446.36,No,No,Yes,Solved,Products always in Stock,1
+250,Town,Gold Membership,No,Without Offers,Gift Vouchers/Coupons,Wi-Fi,3079.31,54602.9,52.0,895.23,Yes,Yes,Yes,Not Applicable,User Friendly Website,1
+251,Village,No Membership,Yes,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Fiber_Optic,562.04,65794.98,8.0,692.77,Yes,No,Yes,Solved in Follow-up,No reason specified,1
+252,Town,Basic Membership,No,Gift Vouchers/Coupons,Without Offers,Fiber_Optic,2676.45,75751.24,46.0,1672.39,Yes,No,Yes,Not Applicable,Quality Customer Care,0
+253,Town,Silver Membership,No,Gift Vouchers/Coupons,Credit/Debit Card Offers,Wi-Fi,1900.93,78350.46,48.0,244.85,Yes,No,Yes,Not Applicable,Poor Customer Service,0
+254,Village,Silver Membership,No,Credit/Debit Card Offers,Without Offers,Mobile_Data,1456.44,64017.15,59.0,642.83,No,Yes,No,Solved in Follow-up,No reason specified,1
+255,Town,No Membership,Yes,Without Offers,Without Offers,Wi-Fi,3006.46,13815.98,46.0,1923.6,Yes,No,Yes,Solved,Poor Website,0
+256,Village,No Membership,No,Credit/Debit Card Offers,Without Offers,Wi-Fi,1568.98,66633.36,42.0,1684.67,Yes,Yes,Yes,Solved,Products always in Stock,1
+257,City,Basic Membership,No,Gift Vouchers/Coupons,Without Offers,Fiber_Optic,1936.5,55887.84,60.0,484.08,No,No,Yes,Not Applicable,Reasonable Price,1
+258,City,Basic Membership,No,Without Offers,Gift Vouchers/Coupons,Wi-Fi,1151.14,50714.47,22.0,522.54,Yes,Yes,Yes,Solved in Follow-up,Too many ads,1
+259,City,Platinum Membership,No,Gift Vouchers/Coupons,Credit/Debit Card Offers,Fiber_Optic,2666.41,64076.66,49.0,1272.22,Yes,Yes,Yes,Not Applicable,Poor Customer Service,1
+260,Town,Platinum Membership,Yes,Credit/Debit Card Offers,Gift Vouchers/Coupons,Mobile_Data,1109.3,93589.48,10.0,1496.69,No,Yes,No,Unsolved,Too many ads,1
+261,Village,Silver Membership,No,Credit/Debit Card Offers,Gift Vouchers/Coupons,Wi-Fi,2774.6,46092.59,11.0,1247.21,No,No,No,No Information Available,Poor Customer Service,1
+262,City,Gold Membership,No,Credit/Debit Card Offers,Credit/Debit Card Offers,Wi-Fi,111.46,28767.46,30.0,841.94,Yes,No,No,Solved,Quality Customer Care,1
+263,City,No Membership,No,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Fiber_Optic,1676.32,69269.14,1.0,770.24,No,Yes,No,Solved in Follow-up,Poor Product Quality,0
+264,Village,Basic Membership,Yes,Gift Vouchers/Coupons,Credit/Debit Card Offers,Fiber_Optic,2605.21,15395.87,11.0,1970.77,No,No,Yes,No Information Available,No reason specified,1
+265,City,Basic Membership,No,Gift Vouchers/Coupons,Credit/Debit Card Offers,Wi-Fi,1125.47,39867.84,26.0,1300.93,No,No,No,Solved in Follow-up,Poor Website,1
+266,City,Platinum Membership,Yes,Gift Vouchers/Coupons,Credit/Debit Card Offers,Mobile_Data,2799.79,92743.37,51.0,1176.98,No,Yes,Yes,Solved in Follow-up,Quality Customer Care,1
+267,Town,Silver Membership,No,Without Offers,Credit/Debit Card Offers,Wi-Fi,149.82,78501.12,31.0,1527.23,No,No,No,Solved,Too many ads,1
+268,City,Silver Membership,No,Without Offers,Without Offers,Wi-Fi,1906.83,99259.37,33.0,1533.66,No,Yes,No,Solved in Follow-up,User Friendly Website,1
+269,City,Premium Membership,Yes,Gift Vouchers/Coupons,Without Offers,Mobile_Data,1342.05,71326.62,69.0,762.62,Yes,Yes,Yes,Unsolved,Too many ads,1
+270,City,No Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Mobile_Data,1926.18,96953.83,11.0,799.75,No,Yes,Yes,Not Applicable,Poor Website,1
+271,Town,Silver Membership,No,Credit/Debit Card Offers,Without Offers,Fiber_Optic,618.44,92762.1,15.0,2047.92,Yes,Yes,Yes,No Information Available,Reasonable Price,0
+272,City,No Membership,Yes,Credit/Debit Card Offers,Gift Vouchers/Coupons,Mobile_Data,2313.1,81467.14,33.0,1767.83,No,Yes,Yes,Unsolved,Products always in Stock,1
+273,Village,Silver Membership,No,Credit/Debit Card Offers,Credit/Debit Card Offers,Fiber_Optic,1674.04,89704.43,36.0,1401.04,No,No,Yes,Solved in Follow-up,User Friendly Website,0
+274,City,Gold Membership,Yes,Without Offers,Credit/Debit Card Offers,Mobile_Data,1396.42,10232.53,52.0,449.14,Yes,Yes,No,No Information Available,No reason specified,1
+275,City,Silver Membership,Yes,Without Offers,Gift Vouchers/Coupons,Wi-Fi,1534.9,59501.75,46.0,17.16,Yes,No,Yes,Unsolved,Products always in Stock,1
+276,City,Gold Membership,Yes,Gift Vouchers/Coupons,Without Offers,Wi-Fi,1322.11,97672.75,21.0,896.21,No,No,No,Solved,User Friendly Website,0
+277,Village,Platinum Membership,No,Without Offers,Gift Vouchers/Coupons,Fiber_Optic,324.29,7116.27,3.0,1477.38,Yes,Yes,Yes,Unsolved,Quality Customer Care,0
+278,City,Basic Membership,Yes,Gift Vouchers/Coupons,Without Offers,Fiber_Optic,1555.07,45148.12,25.0,823.69,No,No,No,Unsolved,Too many ads,1
+279,Village,Basic Membership,Yes,Gift Vouchers/Coupons,Without Offers,Wi-Fi,470.4,64807.64,71.0,808.96,Yes,Yes,Yes,Solved,Too many ads,0
+280,City,Silver Membership,No,Credit/Debit Card Offers,Gift Vouchers/Coupons,Mobile_Data,645.24,17310.84,11.0,769.8,No,No,No,Not Applicable,Quality Customer Care,0
+281,City,Silver Membership,No,Without Offers,Credit/Debit Card Offers,Mobile_Data,1699.29,83370.26,31.0,1544.6,Yes,No,Yes,No Information Available,Poor Product Quality,0
+282,Village,Basic Membership,No,Credit/Debit Card Offers,Credit/Debit Card Offers,Mobile_Data,234.54,6601.3,37.0,1204.53,Yes,No,Yes,Unsolved,Products always in Stock,0
+283,Town,Basic Membership,No,Credit/Debit Card Offers,Credit/Debit Card Offers,Wi-Fi,1702.89,79384.44,42.0,271.78,Yes,Yes,Yes,Unsolved,No reason specified,0
+284,City,No Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Wi-Fi,1410.83,40211.66,16.0,892.81,Yes,No,No,No Information Available,Too many ads,0
+285,City,No Membership,Yes,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Fiber_Optic,2879.23,82056.3,72.0,1023.77,Yes,No,Yes,Solved in Follow-up,Reasonable Price,1
+286,Town,No Membership,No,Credit/Debit Card Offers,Gift Vouchers/Coupons,Wi-Fi,2320.6,30599.24,68.0,385.91,Yes,Yes,No,Solved in Follow-up,Poor Website,0
+287,City,Premium Membership,Yes,Credit/Debit Card Offers,Without Offers,Fiber_Optic,1685.21,90517.67,55.0,720.15,Yes,Yes,No,No Information Available,Quality Customer Care,1
+288,Town,Gold Membership,Yes,Credit/Debit Card Offers,Credit/Debit Card Offers,Mobile_Data,1432.46,24829.93,15.0,1240.4,Yes,Yes,No,Unsolved,Products always in Stock,1
+289,Town,Gold Membership,No,Without Offers,Without Offers,Mobile_Data,2882.45,16472.69,1.0,1697.11,No,No,Yes,Solved in Follow-up,Poor Product Quality,0
+290,Town,Gold Membership,Yes,Gift Vouchers/Coupons,Credit/Debit Card Offers,Wi-Fi,991.26,28805.75,68.0,1318.78,Yes,No,No,Not Applicable,Quality Customer Care,0
+291,Town,Premium Membership,No,Credit/Debit Card Offers,Without Offers,Fiber_Optic,113.2,65629.53,52.0,1937.92,Yes,Yes,No,No Information Available,Poor Product Quality,0
+292,City,Basic Membership,No,Gift Vouchers/Coupons,Gift Vouchers/Coupons,Fiber_Optic,1319.81,84585.27,3.0,16.37,No,No,No,Solved,Reasonable Price,1
+293,Village,No Membership,No,Without Offers,Gift Vouchers/Coupons,Wi-Fi,2083.33,48409.46,26.0,807.75,Yes,Yes,No,No Information Available,Poor Customer Service,0
+294,Village,Gold Membership,No,Credit/Debit Card Offers,Gift Vouchers/Coupons,Mobile_Data,2442.27,5372.17,69.0,2052.76,Yes,Yes,Yes,No Information Available,User Friendly Website,1
+295,Village,Premium Membership,Yes,Without Offers,Without Offers,Fiber_Optic,246.15,26476.99,7.0,880.7,Yes,No,No,Not Applicable,Products always in Stock,1
+296,Town,Silver Membership,Yes,Gift Vouchers/Coupons,Credit/Debit Card Offers,Wi-Fi,1212.44,79910.59,15.0,200.23,No,Yes,No,Not Applicable,Poor Website,0
+297,City,Platinum Membership,No,Without Offers,Gift Vouchers/Coupons,Fiber_Optic,1992.17,75245.69,29.0,1242.96,No,Yes,No,Unsolved,Reasonable Price,1
+298,Town,Silver Membership,No,Gift Vouchers/Coupons,Without Offers,Mobile_Data,430.34,3233.66,30.0,1986.95,No,Yes,No,No Information Available,Too many ads,1
+299,Town,Basic Membership,Yes,Without Offers,Credit/Debit Card Offers,Wi-Fi,596.96,56071.62,42.0,341.82,No,No,No,No Information Available,Poor Product Quality,0
