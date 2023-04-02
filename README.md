@@ -10,5 +10,5 @@ To better understand the trends and patterns in the data, various visualizations
 
 Overall, the project demonstrated the potential of statistical analysis and visualization techniques in understanding the prevalence and characteristics of family violence in West Java. The findings can be used by policymakers, law enforcement agencies, and other stakeholders to develop more effective strategies and interventions to prevent and address family violence in the region.
 
-CLICK HERE -->
-DATA VISUALIZATION --> 
+CLICK HERE -->  
+DATA VISUALIZATION --> https://datastudio.google.com/s/sY-p3QXo_YU
